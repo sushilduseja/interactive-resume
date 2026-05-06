@@ -16,6 +16,24 @@ window.resumeData = {
       summary: "19+ years across engineering and executive delivery, leading mission-critical financial platforms processing billions in daily trading volume across global markets.",
       sourcePdf: "resume/TPM/Sushil_K_Duseja_Resume.pdf",
       variantPage: "pages/technical-program-management.html",
+      visualSnapshot: {
+        metrics: [
+          { value: "19+", label: "Years in delivery leadership" },
+          { value: "100+", label: "Institutional clients supported" },
+          { value: "60%", label: "Security vulnerability reduction" }
+        ],
+        bars: [
+          { label: "Delivery Leadership", value: 95 },
+          { label: "Platform Modernization", value: 92 },
+          { label: "Regulatory Execution", value: 86 },
+          { label: "Technical Depth", value: 74 }
+        ],
+        timeline: [
+          { period: "2005 to 2017", label: "Engineering foundation to technical manager" },
+          { period: "2017 to 2022", label: "Technical program ownership in algo trading" },
+          { period: "2023 to 2025", label: "Barclays FX modernization leadership" }
+        ]
+      },
       coreCompetencies: [
         "Technical program delivery across platform modernization and cloud migration",
         "Cross-functional leadership across engineering, QA, compliance, and business teams",
@@ -74,6 +92,24 @@ window.resumeData = {
       summary: "Delivery-focused technology leader orchestrating mission-critical financial platforms across engineering, QA, and business teams in regulated environments.",
       sourcePdf: "resume/PM/Sushil_Duseja_Resume.pdf",
       variantPage: "pages/project-management.html",
+      visualSnapshot: {
+        metrics: [
+          { value: "6M", label: "Program delivery scope" },
+          { value: "30%", label: "Velocity improvement" },
+          { value: "40%", label: "Throughput improvement" }
+        ],
+        bars: [
+          { label: "Scope and Timeline Control", value: 93 },
+          { label: "Stakeholder Alignment", value: 91 },
+          { label: "Risk and Governance", value: 85 },
+          { label: "Delivery Metrics", value: 79 }
+        ],
+        timeline: [
+          { period: "2009 to 2017", label: "Project lifecycle delivery across enterprise platforms" },
+          { period: "2017 to 2022", label: "Commerzbank portfolio and transformation delivery" },
+          { period: "2023 to 2025", label: "Barclays end-to-end modernization execution" }
+        ]
+      },
       coreCompetencies: [
         "End-to-end delivery ownership across scope, timelines, quality, and dependencies",
         "Stakeholder communication, escalation handling, and business alignment",
@@ -132,6 +168,24 @@ window.resumeData = {
       summary: "Product leader with 19 years of experience, including 7+ years driving digital transformation across Barclays and Commerzbank in financial services.",
       sourcePdf: "resume/BA/Sushil%20Duseja_Resume.pdf",
       variantPage: "pages/business-analyst-product-owner.html",
+      visualSnapshot: {
+        metrics: [
+          { value: "100+", label: "User stories translated into delivery" },
+          { value: "$1B+", label: "Daily flow supported by product changes" },
+          { value: "200+", label: "Backlog items shaped and prioritized" }
+        ],
+        bars: [
+          { label: "Requirements Translation", value: 95 },
+          { label: "Product Prioritization", value: 92 },
+          { label: "Revenue Enablement", value: 84 },
+          { label: "AI and ML Integration", value: 70 }
+        ],
+        timeline: [
+          { period: "2005 to 2017", label: "Analysis and delivery base across enterprise systems" },
+          { period: "2017 to 2022", label: "Product ownership for electronic FX platforms" },
+          { period: "2023 to 2025", label: "Strategic BA leadership at Barclays" }
+        ]
+      },
       coreCompetencies: [
         "Requirements translation from business needs into technical specifications",
         "Roadmap and backlog ownership across strategic platform initiatives",
@@ -190,6 +244,24 @@ window.resumeData = {
       summary: "Seasoned technology executive with 19+ years driving the architecture and delivery of high-volume financial trading platforms across global markets.",
       sourcePdf: "resume/SA/Sushil_Kumar_Duseja_Resume.pdf",
       variantPage: "pages/solutions-architecture.html",
+      visualSnapshot: {
+        metrics: [
+          { value: "10M+", label: "Market events processed daily" },
+          { value: "100+", label: "Clients on target platform" },
+          { value: "80%", label: "Faster release cadence" }
+        ],
+        bars: [
+          { label: "Solution Design", value: 95 },
+          { label: "Cloud Migration", value: 90 },
+          { label: "Low-Latency Systems", value: 87 },
+          { label: "Compliance Architecture", value: 81 }
+        ],
+        timeline: [
+          { period: "2007 to 2017", label: "Architecture standards and performance engineering" },
+          { period: "2017 to 2022", label: "Trading-platform technical leadership at Commerzbank" },
+          { period: "2023 to 2025", label: "Barclays architecture for FX modernization" }
+        ]
+      },
       coreCompetencies: [
         "Target-state architecture for cloud-ready microservices platforms",
         "Low-latency trading, FIX, event-driven systems, and market data pipelines",
@@ -248,6 +320,24 @@ window.resumeData = {
       summary: "19 years building production systems that stay live through market volatility, regulatory shifts, and 24/7 global operations.",
       sourcePdf: "resume/JD/Duseja_Sushil_Kumar_Resume.pdf",
       variantPage: "pages/senior-java-developer.html",
+      visualSnapshot: {
+        metrics: [
+          { value: "100K+", label: "Orders handled per day" },
+          { value: "99.97%", label: "Platform uptime achieved" },
+          { value: "25%", label: "P&L accuracy improvement" }
+        ],
+        bars: [
+          { label: "Java and Spring Engineering", value: 96 },
+          { label: "Event-Driven Systems", value: 90 },
+          { label: "Performance and Latency", value: 88 },
+          { label: "DevSecOps Discipline", value: 76 }
+        ],
+        timeline: [
+          { period: "2005 to 2017", label: "Core engineering and performance optimization" },
+          { period: "2017 to 2022", label: "Java platform engineering in algo trading" },
+          { period: "2023 to 2025", label: "Cloud and microservices delivery at Barclays" }
+        ]
+      },
       coreCompetencies: [
         "Java and Spring Boot backend engineering for trading and enterprise systems",
         "Event-driven platforms with Kafka, Solace, GraphQL, and REST APIs",
@@ -306,6 +396,24 @@ window.resumeData = {
       summary: "Certified Scrum Master with 19 years of technology management experience and 10+ years leading enterprise Agile adoption and globally distributed teams.",
       sourcePdf: "resume/SM/CV_Sushil_Duseja.pdf",
       variantPage: "pages/agile-coach-scrum-master.html",
+      visualSnapshot: {
+        metrics: [
+          { value: "10+", label: "Years leading Agile adoption" },
+          { value: "25%", label: "Sprint planning accuracy gain" },
+          { value: "40%", label: "Defect reduction enabled" }
+        ],
+        bars: [
+          { label: "Agile Coaching", value: 96 },
+          { label: "Team Enablement", value: 92 },
+          { label: "Delivery Predictability", value: 84 },
+          { label: "Technical Fluency", value: 68 }
+        ],
+        timeline: [
+          { period: "2005 to 2017", label: "Coaching inside delivery and engineering roles" },
+          { period: "2017 to 2022", label: "Scrum transformation across multi-team programs" },
+          { period: "2023 to 2025", label: "Barclays Agile modernization leadership" }
+        ]
+      },
       coreCompetencies: [
         "Enterprise Agile transformation and Scrum adoption",
         "Coaching, facilitation, retrospectives, and servant leadership",
@@ -364,6 +472,24 @@ window.resumeData = {
       summary: "Senior technology and governance leader building compliance infrastructure, control frameworks, and operating models in highly regulated, high-volume environments.",
       sourcePdf: "resume/AI/Resume_Sushil_Duseja.pdf",
       variantPage: "pages/ai-safety-governance.html",
+      visualSnapshot: {
+        metrics: [
+          { value: "10M+", label: "Events audited through live pipelines" },
+          { value: "25%", label: "Reporting accuracy improvement" },
+          { value: "40%", label: "Vulnerability reduction" }
+        ],
+        bars: [
+          { label: "Safety Controls", value: 94 },
+          { label: "Auditability", value: 91 },
+          { label: "Governance Mapping", value: 87 },
+          { label: "Technical Implementation", value: 82 }
+        ],
+        timeline: [
+          { period: "2017 to 2022", label: "Hard constraints and kill-switches in trading systems" },
+          { period: "2023 to 2025", label: "NIST-mapped controls, lineage, and evidence automation" },
+          { period: "Recent work", label: "Research, fairness, prompt-defense, and governance prototypes" }
+        ]
+      },
       coreCompetencies: [
         "AI safety controls, oversight models, and responsible enterprise adoption",
         "Auditability, data lineage, and evidence collection for regulated systems",
